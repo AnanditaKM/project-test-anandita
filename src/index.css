@@ -1,0 +1,16 @@
+.bg-orange{
+  background-color:#ec6a31;
+}
+.bg-orange-transparent{
+  background-color : rgba(236, 106, 49, 0.75) ;
+}
+.navbar {
+  transition: top 0.3s ease-in-out; /* Untuk memberikan efek transisi */
+}
+
+.navbar-hide {
+  top: -100px; /* Menggeser navbar di luar layar saat disembunyikan */
+}
+.nav-item{
+  color: white;
+}

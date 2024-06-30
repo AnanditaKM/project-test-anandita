@@ -1,0 +1,14 @@
+.card-img-top{
+    height: 150px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.card{
+    height: 300px;
+}
+.card-body{
+    height: 150px;
+}
+.card-subtitle{
+    color: gray;
+}
