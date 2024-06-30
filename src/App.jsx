@@ -26,7 +26,7 @@ export default function App() {
 			</Helmet>
 			<Routes>
 				<Route
-					path="/"
+					path="/project-test-anandita"
 					element={
 						<MainLayout>
 							<Banner/>
